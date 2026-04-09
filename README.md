@@ -24,7 +24,7 @@ Retorna uma lista de podcasts em formato JSON.
 <img width="1260" height="592" alt="api2" src="https://github.com/user-attachments/assets/dafe878a-8939-443a-bae1-ec401a6c1b91" />
 
 ## 🛠 Tecnologias utilizadas
-Node.js
-TypeScript
-HTTP Module (nativo)
-dotenv
+- Node.js
+- TypeScript
+- HTTP Module (nativo)
+- dotenv
